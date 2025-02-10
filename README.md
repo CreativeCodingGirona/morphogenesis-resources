@@ -1570,7 +1570,7 @@ _Videos:_
 ### Metaballs
 _Related to [implicit surfaces](#implicit-surface), [marching squares](#marching-squares) (2D) and [marching cubes](#marching-cubes) (3D)_
 
-Often confused with [marching cubes](#marching-cubes), this is more of a mathmematical concept that describes a way to define the _values_ in 2D or 3D scalar fields based on distance to one or more points in space. They are a type of [implicit surface](#implicit-surface) that define blobby shapes as pure mathematical formulas rather than explicit polygons and vertices.
+Often confused with [marching cubes](#marching-cubes), this is more of a mathematical concept that describes a way to define the _values_ in 2D or 3D scalar fields based on distance to one or more points in space. They are a type of [implicit surface](#implicit-surface) that define blobby shapes as pure mathematical formulas rather than explicit polygons and vertices.
 
 They can be visualized using the [marching squares](#marching-squares) (2D) or [marching cubes](#marching-cubes) (3D) rendering algorithms. Can be used for naive [fluid simulations](#fluid-simulation) by applying [physics](#physics-engine) to the metaball center points as if they were [particles](#particle-system). They can also be helpful in modelling soft bodies by adding elastic constraints between the center points.
 
